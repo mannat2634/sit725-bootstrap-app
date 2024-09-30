@@ -1,0 +1,56 @@
+.navbar-size {
+    width: 95%;
+    margin: 0 auto;
+}
+
+.user-image-size {
+    height: 80px; /* Adjusted to be smaller */
+    margin: 4px 0;
+}
+
+.main-body {
+    background-color: #F28487;
+    color: white;
+    height: calc(100vh - 64px);
+}
+
+.materialboxed-image {
+    margin: 0 auto;
+    height: 300px; /* Adjusted to be smaller */
+}
+
+.click-me-button {
+    background-color: #EE6E73;
+    margin-top: 50px;
+}
+
+.navbar-size {
+    width: 95%;
+    margin: 0 auto;
+}
+
+.user-image-size {
+    height: 80px; /* Adjusted to be smaller */
+    margin: 4px 0;
+}
+
+.main-body {
+    background-color: #F28487; /* Red background as in the example */
+    color: white;
+    height: calc(100vh - 64px);
+}
+
+.materialboxed-image {
+    margin: 0 auto;
+    height: 300px; /* Adjusted to be smaller */
+}
+
+.click-me-button {
+    background-color: #EE6E73;
+    margin-top: 50px;
+}
+
+.modal {
+    max-width: 700px; /* Adjust modal width */
+    border-radius: 8px; /* Smooth edges */
+}

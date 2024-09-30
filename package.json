@@ -1,1 +1,15 @@
+<<<<<<< HEAD
 
+=======
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
+>>>>>>> 34c36a3 (Refactor user profile page to improve load time)
